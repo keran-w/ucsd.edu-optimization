@@ -35,22 +35,6 @@
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
-
-	<script>
-		if ('loading' in HTMLImageElement.prototype) {
-			const images = document.querySelectorAll('img[loading="lazy"]');
-			images.forEach(img => {
-				img.src = img.dataset.src;
-			});
-		} else {
-			// Dynamically import the LazySizes library
-			const script = document.createElement('script');
-			script.src =
-				'https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js';
-			document.body.appendChild(script);
-		}
-	</script>
-
 	<script>window.dataLayer = window.dataLayer || [];</script>
 	<script>(function (w, d, s, l, i) {
 			w[l] = w[l] || []; w[l].push({
@@ -81,7 +65,7 @@
 						</ul>
 						<div class="navbar-header"><a aria-label="Navigate Back to Home" class="navbar-brand"
 								href="/index.html"> <span> <img alt="UC San Diego" loading="lazy" class="lazyload"
-										data-src="https://www.ucsd.edu/_resources/img/logo_UCSD.png" /> </span> </a>
+										data-src="/logo_UCSD.png" /> </span> </a>
 						</div>
 						<form action="/search/index.html" aria-label="Search Box"
 							class="navbar-form navbar-right navbar-search no-gutter search-form" id="cse-search-box"
@@ -123,7 +107,7 @@
 									type="hidden" value="cascade-cwp" /> <span class="input-group-btn"> <button
 										class="btn btn-primary search-icon search-expand mobile-search-icon"
 										type="button"> <img alt="search-icon" loading="lazy" class="lazyload"
-											data-src="https://www.ucsd.edu/_resources/img/icon_search.png" /> </button>
+											data-src="/icon_search.png" /> </button>
 								</span></div>
 							<label class="radio-inline" for="searchUCSDMobile"> <input
 									aria-label="Search UC San Diego on Mobile Device" checked="checked"
@@ -137,7 +121,7 @@
 					</div>
 					<a aria-label="Navigate back Home" class="navbar-brand visible-xs visible-sm" href="/index.html">
 						<span> <img alt="Brand" loading="lazy" class="lazyload"
-								data-src="https://www.ucsd.edu/_resources/img/logo_UCSD.png" /> </span> </a>
+								data-src="/logo_UCSD.png" /> </span> </a>
 				</div>
 			</div>
 		</div>
