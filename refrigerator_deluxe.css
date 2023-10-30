@@ -18,5 +18,5 @@
 
 @font-face {
   font-family: "RefrigeratorDeluxeExtrabold";
-  src: url('/_resources/fonts/refrigerator_deluxe_extrabold/font.woff2') format('woff2'), url('/_resources/fonts/refrigerator_deluxe_extrabold/font.woff') format('woff');
+  src: url('./font.woff2') format('woff2'), url('./font.woff') format('woff');
 }

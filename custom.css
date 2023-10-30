@@ -49,7 +49,7 @@ hr.colorRule{
 	margin:12.5em 0 3em
 }
 .nav-tabs>li.fun,.tab-module .fun .panel-heading{
-	background:url(../img/tab_fun.jpg);
+	background:url(./tab_fun.jpg);
 	height:200px;
 	background-size:cover;
 	background-color:rgba(255,255,255,.85);
@@ -4332,7 +4332,7 @@ _:-ms-fullscreen,:root .jumbotron-events-news .news-content{
 }
 
 .jumbotron-calendar {
-	background-image: url(../img/bg-grit-combo-7-mobile.jpg);
+	background-image: url(./bg-grit-combo-7-mobile.jpg);
 }
 
 .jumbotron-calendar .calendar-heading {
@@ -4407,7 +4407,7 @@ _:-ms-fullscreen,:root .jumbotron-events-news .news-content{
 }
 
 .jumbotron-event-multiple {
-	background-image: url(../img/bg-grit-combo-3-mobile.jpg);
+	background-image: url(./bg-grit-combo-3-mobile.jpg);
 	color: #182b49;
 }
 
@@ -4588,7 +4588,7 @@ _:-ms-fullscreen,:root .jumbotron-events-news .news-content{
 	 position: absolute;
 	 right: 30px;
 	 top: 30px;
-	 background: url(../img/testimonials-close.png) no-repeat;
+	 background: url(./testimonials-close.png) no-repeat;
 	 height: 23px;
 	 width: 22px;
 	 background-size: 22px;
@@ -4764,7 +4764,7 @@ _:-ms-fullscreen,:root .jumbotron-events-news .news-content{
 }
 
 .jumbotron-schools {
-	background-image: url(../img/bg-orbs-2-mobile.jpg);
+	background-image: url(./bg-orbs-2-mobile.jpg);
 }
 
 .jumbotron-schools .schools-grid .thumbnail {
@@ -4797,7 +4797,7 @@ _:-ms-fullscreen,:root .jumbotron-events-news .news-content{
 }
 
 .jumbotron-tab {
-	background-image: url(../img/bg-grit-combo-4-mobile.jpg);
+	background-image: url(./bg-grit-combo-4-mobile.jpg);
 }
 
 .jumbotron-tab h1 {
@@ -4894,13 +4894,13 @@ _:-ms-fullscreen,:root .jumbotron-events-news .news-content{
 
 .nav-tabs>li.dining, 
 .tab-module .dining .panel-heading {
-	 background: url(../img/img-visiting-tours-dining.jpg);
+	 background: url(./img-visiting-tours-dining.jpg);
 	 background-size: cover;
 }
 
 .nav-tabs>li.shopping, 
 .tab-module .shopping .panel-heading {
-	 background: url(../img/img-visiting-tours-shopping.jpg);
+	 background: url(./img-visiting-tours-shopping.jpg);
 	 background-size: cover;
 }
 
@@ -4911,7 +4911,7 @@ _:-ms-fullscreen,:root .jumbotron-events-news .news-content{
 }
 
 .jumbotron-white.jumbotron-orbs-3 {
-	background-image:url(../img/bg-orbs-3-mobile.jpg);
+	background-image:url(./bg-orbs-3-mobile.jpg);
 }
 
 section[data-module=callout-content-min-three].jumbotron-white.jumbotron-orbs-3 {
@@ -4920,7 +4920,7 @@ section[data-module=callout-content-min-three].jumbotron-white.jumbotron-orbs-3 
 }
 
 .jumbotron-white.jumbotron-orbs-4 {
-	background-image:url(../img/bg-orbs-4-mobile.jpg);
+	background-image:url(./bg-orbs-4-mobile.jpg);
 }
 
 .jumbotron-white.jumbotron-orbs-3 p,
@@ -4938,7 +4938,7 @@ section[data-module=callout-content-min-three].jumbotron-white.jumbotron-orbs-3 
 }
 
 .jumbotron-attend.jumbotron-orbs-1 {
-	background-image: url(../img/bg-orbs-1-mobile.jpg);
+	background-image: url(./bg-orbs-1-mobile.jpg);
 	background-position: center;
 }
 
@@ -4970,7 +4970,7 @@ section[data-module=callout-content-min-three].jumbotron-white.jumbotron-orbs-3 
 }
 
 .jumbotron-quote-slider.grit-combo-8 {
-	background-image: url(../img/bg-grit-combo-8-mobile.jpg);
+	background-image: url(./bg-grit-combo-8-mobile.jpg);
 }
 
 .jumbotron-quote-slider.grit-combo-8 .new-quote-slider .slick-dots li span {
@@ -5009,7 +5009,7 @@ section[data-module=callout-content-min-three].jumbotron-white.jumbotron-orbs-3 
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image:url(../img/overlay-glow-2-mobile.png);
+	background-image:url(./overlay-glow-2-mobile.png);
 	background-size: cover;
    background-position: 0% 50%;
    mix-blend-mode: lighten;
@@ -5024,7 +5024,7 @@ section[data-module=callout-content-min-three].jumbotron-white.jumbotron-orbs-3 
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image:url(../img/overlay-glow-small-1.png);
+	background-image:url(./overlay-glow-small-1.png);
 	background-size: cover;
    background-position: 0% 50%;
    mix-blend-mode: lighten;
@@ -5039,7 +5039,7 @@ section[data-module=callout-content-min-three].jumbotron-white.jumbotron-orbs-3 
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-image:url(../img/overlay-glow-small-3.png);
+	background-image:url(./overlay-glow-small-3.png);
 	background-size: cover;
    background-position: 0% 50%;
    mix-blend-mode: lighten;
@@ -5060,7 +5060,7 @@ section[data-module=hero-detail-page]::before {
 	left: 0;
 	width: 100%;
 	height: 80px;
-	background-image:url(../img/overlay-hero-tab-mobile.png);
+	background-image:url(./overlay-hero-tab-mobile.png);
 	background-size: contain;
    background-position: top right;
    background-repeat: no-repeat;
@@ -5137,7 +5137,7 @@ section[data-module=text-and-image] {
 	section[data-module=hero-landing-page]::before,
 	section[data-module=hero-with-panel]::before, 
 	section[data-module=hero-detail-page]::before {
-		background-image:url(../img/overlay-hero-tab-med.png);
+		background-image:url(./overlay-hero-tab-med.png);
 		background-size: contain;
 	}
 }
@@ -5156,7 +5156,7 @@ section[data-module=text-and-image] {
 	}
 
 	.jumbotron-calendar {
-		background-image: url(../img/bg-grit-combo-7.jpg);
+		background-image: url(./bg-grit-combo-7.jpg);
 	}
 
 	.jumbotron-calendar .panel .panel-body {
@@ -5172,20 +5172,20 @@ section[data-module=text-and-image] {
 	}
 
 	.jumbotron-schools {
-		background-image: url(../img/bg-orbs-2.jpg);
+		background-image: url(./bg-orbs-2.jpg);
 	}
 
 	.jumbotron-attend.jumbotron-orbs-1 {
-		background-image: url(../img/bg-orbs-1.jpg);
+		background-image: url(./bg-orbs-1.jpg);
 		background-position: right bottom;
 	}
 
 	.jumbotron-event-multiple {
-		background-image: url(../img/bg-grit-combo-3.jpg);
+		background-image: url(./bg-grit-combo-3.jpg);
 	}
 
 	.jumbotron-quote-slider.grit-combo-8 {
-		background-image: url(../img/bg-grit-combo-8.jpg);
+		background-image: url(./bg-grit-combo-8.jpg);
 	}
 	
 	.jumbotron-quote-slider.grit-combo-8 .new-quote-slider .image {
@@ -5197,19 +5197,19 @@ section[data-module=text-and-image] {
 	}
 
 	.jumbotron-tab {
-		background-image: url(../img/bg-grit-combo-4.jpg);
+		background-image: url(./bg-grit-combo-4.jpg);
 	}
 	
 	.jumbotron-white.jumbotron-orbs-3 {
-		background-image:url(../img/bg-orbs-3.jpg);
+		background-image:url(./bg-orbs-3.jpg);
 	}
 
 	.jumbotron-white.jumbotron-orbs-4 {
-		background-image:url(../img/bg-orbs-4.jpg);
+		background-image:url(./bg-orbs-4.jpg);
 	}
 
 	.overlay-glow-2::before {
-		background-image:url(../img/overlay-glow-2.png);
+		background-image:url(./overlay-glow-2.png);
 	}
 
 	.side-image h2 {
@@ -5221,7 +5221,7 @@ section[data-module=text-and-image] {
 	}
 
 	section[data-module=callout-content-min-three].jumbotron-white.jumbotron-orbs-3 {
-		background-image:url(../img/bg-orbs-3.jpg);
+		background-image:url(./bg-orbs-3.jpg);
 	}
 }
 
@@ -5237,7 +5237,7 @@ section[data-module=text-and-image] {
 	section[data-module=hero-landing-page]::before,
 	section[data-module=hero-with-panel]::before,
 	section[data-module=hero-detail-page]::before {
-		background-image:url(../img/overlay-hero-tab.png);
+		background-image:url(./overlay-hero-tab.png);
 		background-size: cover;
 		/*top: 300px;COMMENTED OUT BY JH 5/11/23*/
 		 top: 195px; /*ADDED BY JH 5/11/23*/
@@ -5253,7 +5253,7 @@ section[data-module=text-and-image] {
 	}
 	
 	.jumbotron-attend.jumbotron-orbs-1 {
-		background-image: url(../img/bg-orbs-1.jpg);
+		background-image: url(./bg-orbs-1.jpg);
 		background-position: center;
 	}
 	
@@ -5375,43 +5375,43 @@ section[data-module=text-and-image] {
 	}
 
 	.jumbotron-schools .thumbnail.thumb-muir.hover {
-		background-image:url(../img/academics/grid_muir.jpg);
+		background-image:url(./academics/grid_muir.jpg);
 		transition:background-image .5s ease-in-out
 	}
 	
 	.jumbotron-schools .thumbnail.thumb-marshall.hover {
-		background-image:url(../img/academics/grid_marshall.jpg);
+		background-image:url(./academics/grid_marshall.jpg);
 		transition:background-image .5s ease-in-out;
 		background-color: transparent;
 	}
 
 	.jumbotron-schools .thumbnail.thumb-revelle.hover {
-		background-image:url(../img/academics/grid_revelle.jpg);
+		background-image:url(./academics/grid_revelle.jpg);
 		transition:background-image .5s ease-in-out
 	}
 
 	.jumbotron-schools .thumbnail.thumb-roosevelt.hover {
-		background-image:url(../img/academics/grid_roosevelt.jpg);
+		background-image:url(./academics/grid_roosevelt.jpg);
 		transition:background-image .5s ease-in-out
 	}
 	
 	.jumbotron-schools .thumbnail.thumb-sixth.hover {
-		background-image:url(../img/academics/grid_sixth.jpg);
+		background-image:url(./academics/grid_sixth.jpg);
 		transition:background-image .5s ease-in-out
 	}
 
 	.jumbotron-schools .thumbnail.thumb-warren.hover {
-		background-image:url(../img/academics/grid_warren.jpg);
+		background-image:url(./academics/grid_warren.jpg);
 		transition:background-image .5s ease-in-out;
 	}
 
 	.jumbotron-schools .thumbnail.thumb-seventh.hover {
-		background-image:url(../img/academics/grid_seventh.jpg);
+		background-image:url(./academics/grid_seventh.jpg);
 		transition:background-image .5s ease-in-out;
 	}
 	
 	.jumbotron-schools .thumbnail.thumb-eighth.hover {
-		background-image:url(../img/academics/grid_eight.jpg);
+		background-image:url(./academics/grid_eight.jpg);
 		transition:background-image .5s ease-in-out;
 	}
 	.jumbotron-hero-vid {
@@ -5517,7 +5517,7 @@ section[data-module=text-and-image] {
 }
 
 .jumbotron-quote-slider.grit-combo-2 {
-	background-image: url(../img/bg-grit-combo-2-mobile.jpg);
+	background-image: url(./bg-grit-combo-2-mobile.jpg);
 }
 
 .jumbotron-quote-slider.grit-combo-2 .row-flex {
@@ -5566,7 +5566,7 @@ section[data-module=text-and-image] {
 
 @media screen and (min-width: 768px) { 
 	.jumbotron-quote-slider.grit-combo-2 {
-		background-image: url(../img/bg-grit-combo-2.jpg);
+		background-image: url(./bg-grit-combo-2.jpg);
 	}
 	.jumbotron-quote-slider.grit-combo-2 .row-flex {
 		display: flex;
@@ -5598,7 +5598,7 @@ section[data-module=text-and-image] {
 
 /* DRAWERS */
 .jumbotron-drawers .drawer-toggle a, .jumbotron-drawers .drawer h2 a{
-	background: url(../img/sprite_icon_widget.svg) no-repeat transparent;
+	background: url(./sprite_icon_widget.svg) no-repeat transparent;
 	background-size: 16px 300px;
 }
 .jumbotron-drawers .drawer-wrapper ol, .jumbotron-drawers .drawer-wrapper ul {
@@ -5695,7 +5695,7 @@ section[data-module=text-and-image] {
 	display: block;
 	width: 30px;
 	height: 25px;
-	background: url(../img/expand.svg) no-repeat;
+	background: url(./expand.svg) no-repeat;
 }
 .jumbotron-drawers .drawer-wrapper .drawer.light-theme h2.expand {
 	margin-bottom: 0;
@@ -5708,7 +5708,7 @@ section[data-module=text-and-image] {
 	display: block;
 	width: 30px;
 	height: 25px;
-	background: url(../img/collapse.svg) no-repeat;
+	background: url(./collapse.svg) no-repeat;
 }
 .jumbotron-drawers .drawer-wrapper .drawer.light-theme h2 a {
 	font-weight: 700;
@@ -5798,7 +5798,7 @@ section[data-module=text-and-image] {
 	display: block;
 	width: 30px;
 	height: 25px;
-	background: url(../img/expand-white.svg) no-repeat;
+	background: url(./expand-white.svg) no-repeat;
 }
 .jumbotron-drawers.dark-theme .drawer-wrapper .drawer.dark-theme h2.expand {
 	margin-bottom: 0;
@@ -5811,7 +5811,7 @@ section[data-module=text-and-image] {
 	display: block;
 	width: 30px;
 	height: 25px;
-	background: url(../img/collapse-white.svg) no-repeat;
+	background: url(./collapse-white.svg) no-repeat;
 }
 .jumbotron-drawers .drawer-wrapper .drawer.dark-theme > div {
 	padding: 0.75em 70px 0 1em;
@@ -5861,7 +5861,7 @@ section[data-module=text-and-image] {
 	display: block;
 	width: 30px;
 	height: 25px;
-	background: url(../img/expand-white.svg) no-repeat;
+	background: url(./expand-white.svg) no-repeat;
 }
 .jumbotron-drawers.image-theme .drawer-wrapper .drawer.image-theme h2.expand {
 	margin-bottom: 0;
@@ -5874,7 +5874,7 @@ section[data-module=text-and-image] {
 	display: block;
 	width: 30px;
 	height: 25px;
-	background: url(../img/collapse-white.svg) no-repeat;
+	background: url(./collapse-white.svg) no-repeat;
 }
 
 /* Callout Content One / "Text Block" Module */
@@ -5928,7 +5928,7 @@ section[data-module=text-and-image] {
 	color: #fff;
  }
  .jumbotron-callout-content-one .cc-yellow-trident {
-	background-image: url("../img/bg-dark-blue-trident-full.png");
+	background-image: url("./bg-dark-blue-trident-full.png");
  }
  @media (min-width: 768px) {
 	.jumbotron-callout-content-one {
@@ -5939,7 +5939,7 @@ section[data-module=text-and-image] {
  .cc-yellow-trident {
 	color: #333333;
 	background-color: #f5f5f5;
-	background-image: url("../img/bg-yellow-trident-full.png");
+	background-image: url("./bg-yellow-trident-full.png");
  }
  .cc-yellow-trident h2, .cc-yellow-trident h3, .cc-yellow-trident h4, .cc-yellow-trident h5, .cc-yellow-trident h6, .cc-yellow-trident p, .cc-yellow-trident li, .cc-yellow-trident a:hover {
 	color: #333333;
@@ -5958,16 +5958,16 @@ section[data-module=text-and-image] {
  
  .cc-dark-blue-trident {
 	background-color: #182b49;
-	background-image: url("../img/bg-white-trident-full.png");
+	background-image: url("./bg-white-trident-full.png");
  }
  
  .cc-dark-blue-library {
 	background-color: #182b49;
-	background-image: url("../img/dark-blue-library.png");
+	background-image: url("./dark-blue-library.png");
  }
  
  .cc-blue-library-light {
-	background-image: url("../img/dark-blue-library.png");
+	background-image: url("./dark-blue-library.png");
  }
  
  .cc-custom-background {
