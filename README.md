@@ -1,4 +1,6 @@
-# UCSD Website Homepage Clone
+# UCSD-Site-Clone
+
+Creating a static clone of UCSD website and optimizing for performance and accessibility
 
 Original homepage: [https://ucsd.edu/](https://ucsd.edu/)
 
