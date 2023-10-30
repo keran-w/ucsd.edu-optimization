@@ -120,8 +120,7 @@
 						</form>
 					</div>
 					<a aria-label="Navigate back Home" class="navbar-brand visible-xs visible-sm" href="/index.html">
-						<span> <img alt="Brand" loading="lazy" class="lazyload"
-								src="/logo_UCSD.png" /> </span> </a>
+						<span> <img alt="Brand" loading="lazy" class="lazyload" src="/logo_UCSD.png" /> </span> </a>
 				</div>
 			</div>
 		</div>
@@ -132,8 +131,7 @@
 						<li class="dropdown">
 							<div class="btn-group navbar-btn"><a href="http://ucsd.edu/about/index.html">About</a> <a
 									class="dropdown-toggle" data-toggle="dropdown" href="#"> <img alt="arrow"
-										loading="lazy" class="lazyload"
-										src="/icon_arrow.png" /> </a>
+										loading="lazy" class="lazyload" src="/icon_arrow.png" /> </a>
 								<ul class="dropdown-menu">
 									<li><a href="/about/visiting-tours/index.html">Visiting &amp; Tours</a></li>
 									<li><a href="https://today.ucsd.edu">News</a></li>
@@ -148,8 +146,7 @@
 						<li>
 							<div class="btn-group navbar-btn"><a href="http://ucsd.edu/academics/">Academics</a> <a
 									class="dropdown-toggle" data-toggle="dropdown" href="#"> <img alt="arrow"
-										loading="lazy" class="lazyload"
-										src="/icon_arrow.png" /> </a>
+										loading="lazy" class="lazyload" src="/icon_arrow.png" /> </a>
 								<ul class="dropdown-menu">
 									<li><a href="http://students.ucsd.edu">TritonLink</a></li>
 									<li><a href="http://ucsd.edu/academics-detail.html">Undergraduate Degrees &amp;
@@ -169,8 +166,7 @@
 							<div class="btn-group navbar-btn"><a
 									href="http://ucsd.edu/admissions-aid/index.html">Admissions and Aid</a> <a
 									class="dropdown-toggle" data-toggle="dropdown" href="#"> <img alt="arrow"
-										loading="lazy" class="lazyload"
-										src="/icon_arrow.png" /> </a>
+										loading="lazy" class="lazyload" src="/icon_arrow.png" /> </a>
 								<ul class="dropdown-menu">
 									<li><a href="http://admissions.ucsd.edu/freshman/">First-Year Admissions</a></li>
 									<li><a href="http://admissions.ucsd.edu/transfer/">Transfer Admissions</a></li>
@@ -191,8 +187,7 @@
 							<div class="btn-group navbar-btn"><a
 									href="http://ucsd.edu/research-innovation/index.html">Research and Innovation</a> <a
 									class="dropdown-toggle" data-toggle="dropdown" href="#"> <img alt="arrow"
-										loading="lazy" class="lazyload"
-										src="/icon_arrow.png" /> </a>
+										loading="lazy" class="lazyload" src="/icon_arrow.png" /> </a>
 								<ul class="dropdown-menu">
 									<li><a href="http://ucsd.edu/research-innovation/research-initiatives.html">Research
 											Initiatives</a></li>
@@ -208,8 +203,7 @@
 						<li>
 							<div class="btn-group navbar-btn"><a href="http://ucsd.edu/student-life/index.html">Student
 									Life</a> <a class="dropdown-toggle" data-toggle="dropdown" href="#"> <img
-										alt="arrow" loading="lazy" class="lazyload"
-										src="/icon_arrow.png" /> </a>
+										alt="arrow" loading="lazy" class="lazyload" src="/icon_arrow.png" /> </a>
 								<ul class="dropdown-menu">
 									<li><a
 											href="http://ucsd.edu/student-life/organizations/index.html">Organizations</a>
@@ -227,8 +221,7 @@
 						<li>
 							<div class="btn-group navbar-btn"><a href="http://ucsd.edu/support/index.html">Support UC
 									San Diego</a> <a class="dropdown-toggle" data-toggle="dropdown" href="#"> <img
-										alt="arrow" loading="lazy" class="lazyload"
-										src="/icon_arrow.png" /> </a>
+										alt="arrow" loading="lazy" class="lazyload" src="/icon_arrow.png" /> </a>
 								<ul class="dropdown-menu">
 									<li><a href="http://alumni.ucsd.edu/">Alumni</a></li>
 									<li><a href="http://giving.ucsd.edu/">Giving</a></li>
@@ -374,7 +367,8 @@
 								<div class="col-sm-12">
 									<div class="text-indent text-indent-h1 animated fadeInUp">
 										<h1 aria-hidden="true" class="rt-text-small" tabindex="0">Celebrating
-											<br /><span> Latinx Heritage Month</span></h1>
+											<br /><span> Latinx Heritage Month</span>
+										</h1>
 										<h1 class="sr-only">Celebrating Latinx Heritage Month</h1>
 										<p class="">The UC San Diego community is invited to join in the commemoration
 											of Latinx Heritage Month during the month of October. A series of events has
@@ -772,8 +766,7 @@
 								<ul class="list-inline">
 									<li>
 										<a data-module="footer" href="https://www.facebook.com/UCSanDiego/"><img
-												alt="facebook" loading="lazy" class="lazyload"
-												src="/icon_fb.png" /></a>
+												alt="facebook" loading="lazy" class="lazyload" src="/icon_fb.png" /></a>
 									</li>
 									<li>
 										<a data-module="footer" href="https://www.instagram.com/ucsandiego/"><img
@@ -782,8 +775,7 @@
 									</li>
 									<li>
 										<a data-module="footer" href="https://twitter.com/ucsandiego/"><img
-												alt="twitter" loading="lazy" class="lazyload"
-												src="/icon_tw.png" /></a>
+												alt="twitter" loading="lazy" class="lazyload" src="/icon_tw.png" /></a>
 									</li>
 									<li>
 										<a data-module="footer" href="https://www.tiktok.com/@ucsandiego"><img
@@ -891,7 +883,7 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<p class="text-center small"> ©
-							<script>document.write(new Date().getFullYear())</script> Regents of the University of
+							<span id="year"></span> Regents of the University of
 							California. All rights reserved. | <a class="terms-link"
 								href="https://accessibility.ucsd.edu/report-a-concern/index.html">Accessibility</a> | <a
 								class="terms-link" href="/about/privacy-policy.html">Privacy</a> | <a class="terms-link"
@@ -903,15 +895,22 @@
 		</div>
 	</footer>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<script>window.jQuery || document.write('<script src="/jquery.min.js"><\/script>')</script>
+	<script>
+		if (!window.jQuery) {
+			var script = document.createElement('script');
+			script.type = 'text/javascript';
+			script.src = '/jquery.min.js';
+			document.head.appendChild(script);
+		}
+	</script>
 	<script src="/bootstrap.min.js"></script>
 	<!-- Slick Slider for custom carousel -->
 	<script src="/slick.min.js" type="text/javascript"></script>
 	<script src="/responsive-tabs.js"></script>
 	<script type="text/javascript">
-			(function ($) {
-				fakewaffle.responsiveTabs(['xs']);
-			})(jQuery);
+		(function ($) {
+			fakewaffle.responsiveTabs(['xs']);
+		})(jQuery);
 	</script>
 	<!-- for custom scroll animation -->
 	<script src="/jquery.easings.min.js"></script>
@@ -946,6 +945,9 @@
 		})();
 	</script><noscript><img alt="" height="1" src="https://dc.ads.linkedin.com/collect/?pid=46649&amp;fmt=gif"
 			style="display:none;" width="1" /></noscript>
+	<script>
+		document.getElementById('year').textContent = new Date().getFullYear();
+	</script>
 </body>
 
 </html>
